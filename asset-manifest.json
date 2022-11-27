@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Davidcatch/react_profile.git/static/css/main.1eebb350.css",
+    "main.js": "/Davidcatch/react_profile.git/static/js/main.bd049361.js",
+    "static/js/787.f2a0fa2f.chunk.js": "/Davidcatch/react_profile.git/static/js/787.f2a0fa2f.chunk.js",
+    "static/media/Profile.jpg": "/Davidcatch/react_profile.git/static/media/Profile.b9abe3adec260ec62417.jpg",
+    "index.html": "/Davidcatch/react_profile.git/index.html",
+    "main.1eebb350.css.map": "/Davidcatch/react_profile.git/static/css/main.1eebb350.css.map",
+    "main.bd049361.js.map": "/Davidcatch/react_profile.git/static/js/main.bd049361.js.map",
+    "787.f2a0fa2f.chunk.js.map": "/Davidcatch/react_profile.git/static/js/787.f2a0fa2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1eebb350.css",
+    "static/js/main.bd049361.js"
+  ]
+}
